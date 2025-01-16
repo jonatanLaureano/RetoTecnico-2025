@@ -3,8 +3,6 @@
 
 Esta prueba técnica consiste en una aplicación para  la búsqueda como imagen, video o audio utilizando  API REST. La aplicación está construida con React, TypeScript, vite, Axios y CSS.
 
-[Demo del proyecto]( )
-
 ## Instalación y Configuración
 1. Clonar el repositorio
   ```bash
